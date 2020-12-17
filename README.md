@@ -11,7 +11,10 @@ Personalized Job recommendation system.*
 *The CEO has gathered some data ( around 466 Users ) and is looking for a candidate to build this recommender system.*
 
 * *The dataset has provided by the company itself*
-|Dataset                       |Some info about data                                                                                           |
-|------------------------------|---------------------------------------------------------------------------------------------------------------|
-|Job Listing Clicks by the user|<ul><li>userId(XYZ userId)</li><li>JobId (XYZ JobId)</li><li>Clicks(Number of times user has clicked)</li></ul>|
-| Jobs                         |<ul> <li>JobId</li> <li>Job_category</li> </ul>                                                                 |                                
+
+
+|Dataset                        |Some info about data                                                                                           |
+|------------------------------ |---------------------------------------------------------------------------------------------------------------|
+|Job Listing Clicks by the user |<ul><li>userId(XYZ userId)</li><li>JobId (XYZ JobId)</li><li>Clicks(Number of times user has clicked)</li></ul>|
+| Jobs                          |<ul> <li>JobId</li> <li>Job_category</li> </ul>                                                                |      
+
