@@ -1,0 +1,6 @@
+1. Python version==3.7.2
+2. numpy version==1.19.2
+3. pandas version==0.25.1
+4. Scikit-learn
+5. matplotlib 
+6. seaborn
