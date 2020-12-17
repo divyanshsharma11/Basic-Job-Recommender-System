@@ -21,18 +21,9 @@ Personalized Job recommendation system.*
 * *I have used jupyter notebook for this project and performed this using different libraries like Pandas,Matplotlib,Seaborn and also used Scikit-learn (formerly scikits.learn and also known as sklearn)which is a free software machine learning library for the Python programming language.*
 * *We can deploy the model on webpage using flask(for backend),for frontend(HTML,CSS,JavaScript).*
 
-![IMPORTS](Screenshot (466).png)
-
-
 * *Also, we can use **[Streamlit](https://www.streamlit.io/)** (Streamlit is a software company offering an open-source platform for machine learning and data science teams to create data applications with python..*
-
-![ERROR VS K VALUE](Screenshot (467).png)
 
 * *In this project the target variable is **"Job_category"** and there are 9 categories under this category and we predict it by giving value of userid,jobid and 
  the number of clicks by the user.*
-
-![CLASSIFICATION REPORT](Screenshot (468).png)
-
 * UserId and JobId are both unique.* 
 
-![KNN PREDICTION](Screenshot (469).png)
