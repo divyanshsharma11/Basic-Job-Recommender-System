@@ -26,4 +26,5 @@ Personalized Job recommendation system.*
 * *In this project the target variable is **"Job_category"** and there are 9 categories under this category and we predict it by giving value of userid,jobid and 
  the number of clicks by the user.*
 * UserId and JobId are both unique.* 
+* ***The link to the project is [JOB_RECOMMENDER](https://github.com/divyanshsharma11/Basic-Job-Recommender-System)***
 
